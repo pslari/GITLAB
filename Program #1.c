@@ -1,7 +1,7 @@
 
 void program_1(){
 
-    printf("Hi");
+    printf("Hi!");
     return;
 }
 
